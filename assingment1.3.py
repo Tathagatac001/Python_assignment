@@ -1,4 +1,4 @@
-firstname=raw_input("enter your first name: ")
-last_name=raw_input("Enter your last name: ")
-"".join(reversed(firstname))+' '+"".join(reversed(last_name))
+fname = raw_input("Input your First Name : ")
+lname = raw_input("Input your Last Name : ")
+print ("Hello  " + lname + " " + fname)
 
