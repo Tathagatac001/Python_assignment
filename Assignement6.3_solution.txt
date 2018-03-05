@@ -1,0 +1,15 @@
+For a perticular student:
+
+The probability of failing in 0 subjects, P(X=0) = 0.8
+
+The probability of failing in 1 subjects, P(X=1) = 0.1
+
+The probability of failing in 2 subjects, P(X=2) = 0.07
+
+The probability of failing in 3 subjects, P(X=3) = 0.03
+
+
+The probability distribution can be shown as:
+
+ X 	 	0 	 1 	 2 	 3
+ P(X) 		0.8 	 0.1 	 0.07 	 0.03

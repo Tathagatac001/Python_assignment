@@ -1,0 +1,23 @@
+Step 1: Adding up the numbers in given data set.
+	3+21+98+203+17+9=351
+
+Step 2: Square of sum
+	351×351=123201
+	
+	and dividing it by the number of items.(6 items in this example)
+	123201/6=20533.5
+
+Step 3: Sqaure of indivisual items in the dataset.
+	3*3+21*21+98*98+203*203+17*17+9*9=51633
+
+Step 4: Subtracting the result of Step 2 from the result of Step 3.
+	51633 - 20533.5=31099.5
+	
+Step 5: Subtracting 1 from the number of items in given data set.
+	6 – 1 = 5
+
+Step 6: Dividing the result of Step 4 by the result of Step 5. This is the variance:
+	31099.5/5=6219.9
+
+	Ans is 6219.9
+
