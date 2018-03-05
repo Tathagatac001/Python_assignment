@@ -1,0 +1,24 @@
+Step 1: Adding up the numbers in given data set.
+	1550+​1700+​900+850+1000+950=6950
+
+Step 2: Square of sum
+	6950*6950=48302500
+	
+	and dividing it by the number of items.(6 items in this example)
+	48302500/6=8050416.666666667
+
+Step 3: Sqaure of indivisual items in the dataset.
+	1550*1550+1700*1700+900*900+850*850+1000*1000+950*950=8727500
+
+Step 4: Subtracting the result of Step 2 from the result of Step 3.
+	8727500 - 8050416.67=677083.33
+	
+Step 5: Subtracting 1 from the number of items in given data set.
+	6 – 1 = 5
+
+Step 6: Dividing the result of Step 4 by the result of Step 5. This is the variance:	
+	677083.33/5=135416.67
+
+Step 7: Square root of the result of step 6(variance) will give standerd deviation:
+	
+	Ans:368
