@@ -1,0 +1,27 @@
+The formula for calculating the achievement of 'k' successes in 'n' trials is:
+P ('k' successes in 'n' trials) = C(n,k)s**k(1−s)**(n−k) [ ** denoting power ]
+C (n, k) is called the coefficient for binomial distribution or binomial coefficient.
+
+n=number of trials attempted.
+k=count of success within n trials
+n-k=numbers of failures
+s=probability of success in a trial
+1-s=probability of failure
+
+Here, n = 20, n - k = 5, k = 20 - 5 = 15
+
+s = 1/4
+
+1 - s = 1 - 1/4= 3/4
+
+When we substitute these values in the formula for Binomial distribution we get,
+
+So, P ( 5 out of 50 answers incorrect) = C (20, 5) * (1/4)**15 * (3/4)**5 
+
+
+P (5 out of 20) = (20∗19∗18∗17∗16)/(5∗4∗3∗2∗1) * (1/4)**15 * (3/4)**5
+
+= 0.0000034 (approx)
+
+Thus the required probability is 0.0000034 approximately.
+
