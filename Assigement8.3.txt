@@ -1,0 +1,18 @@
+i)
+z score formula for a sample is:
+z = (x – μ) / σ
+
+x=My test scrore(1100 here)
+μ=sample mean(1026 here)
+
+σ=standerd deviation(209 here)
+
+So z=(1100-1026)/209=.354
+
+ii)Now the probality of score getting less than 1100 is
+P(x<1100)=P(x<.354)=.6368
+
+So 63.68% people scored less than 1100.
+
+iii)Hence 36.62% people scored greater than 1100.
+

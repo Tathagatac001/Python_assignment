@@ -1,0 +1,27 @@
+
+i)
+The sample from each population are large enough.
+Because n1p1=100*.52=52,n1(1-p1)=100*.48=48,n2p2=100*47,n2(1-p2)=100*.53=53
+
+So we can model differecnes with a normal distribution.
+
+Each sample size is greater than 10.
+
+ii)
+The mean of the difference in sample proportions: μP1 - P2 = 0.52 - 0.47 = 0.05 
+
+iii)
+Standard deviation of the difference. 
+
+Qd=sqrt{[p1(1-p1)/n1] + [p2(1-p2)/n2]}=sqrt{[(.52*48)/100] + [(.47*.53)/100]}=.07
+
+iv)We have to find the probability that p1 is less than p2.
+
+We will calulate probality (p1 -p2) <0 using z score.
+
+	(x - μp1 - p2) / σd=(0-.05)/.07=-.708
+	P(z <=0.7082) = 0.24
+
+
+The probability that the survey will show a greater percentage of Republican
+voters in the second state than in the first state is 0.24

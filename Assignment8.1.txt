@@ -1,0 +1,46 @@
+Step 1: Here null hypothesis: H0:μ=100(population mean)
+
+Step 2: The alternate hypothesis: H1:≠100
+
+Step 3: State your alpha level. We’ll use 0.05 for this example. As this is a two-tailed test, split the alpha into two.
+0.05/2=0.025
+
+Step 4: Find the z-score associated with your alpha level. You’re looking for the area in one tail only. A z-score for 0.75(1-0.025=0.975) is 1.96. As this is a two-tailed test, you would also be considering the left tail (z=1.96)
+
+Step 5: Find the test statistic using this formula: z score formula
+z=(140-100)/(15/√30)=14.60.
+
+Step 6: If Step 5 is less than -1.96 or greater than 1.96 (Step 3), reject the null hypothesis. In this case, it is greater, so we can reject the null.
+
+
+Before you run any statistical test, you must first determine your alpha level, which is also called the “significance level.” By definition, the alpha level is the probability of rejecting the null hypothesis when the null hypothesis is true. Translation: It's the probability of making a wrong decision
+
+
+Blood glucose levels for obese patients have a mean of 100 with a standard deviation of
+15. A researcher thinks that a diet high in raw cornstarch will have a positive effect on
+blood glucose levels. A sample of 36 patients who have tried the raw cornstarch diet
+have a mean glucose level of 108. Test the hypothesis that the raw cornstarch had an
+effect or not.
+
+Step 1)Here hull hypothesis is  H0:μ=100(population mean)
+
+Step 2)Alternate hypothesis H1:≠100
+
+Step 3)Using alpha=.05(5%) for this example.(the alpha level is the probability of rejecting the null hypothesis when the null hypothesis is true.It's the probability of making a wrong decision)
+
+Step 4)Here Alternate hypothesis might be either less than 100 or greater than 100.Hence it should be a two-tailed test.
+So we have to split alpha into 2.  0.5/2=0.25
+
+Step 5)To find the z-score associated with this alpha level. We will look for the area in one tail only.The area at right side 
+A z-score for 0.475(.5-.025) is 1.96. As this is a two-tailed test, we would also be considering the left tail (z=-1.96)
+
+Step 6)If the test statistics is greater than 1.96 or less than -1.96 then null hypothesis will be rejected.(i.e 
+
+Step 7)
+ 	Find the test statistic using this formula: z score formula
+	z=(108-100)/(15/√36)=3.2
+	
+	Ans: Since 3.2 is greater than 1.96,We will reject null hypothesis.
+
+
+
