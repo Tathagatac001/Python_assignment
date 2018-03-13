@@ -1,0 +1,58 @@
+1)Here observed frequency is:
+
+We have added total column both side.
+
+                                 Observed					
+	High School	Bachelors	Masters	Ph.D	Total
+Female	60		54		46	41	201(60+54+46+41)
+Male 	40		44		53	57	194(40+44+53+57)
+Total 	100		98		99	98	395(100+98+99+98)
+	(40+60)		(54+44)		46+53)	(41+57)	(201+194)
+
+2)
+Here we need to test  the independence of two categorical variables.Below is the hypothesis statement.		
+		
+Null Hypothesis: Education level is independent from gender.	
+Alternative Hypothesis: Educational level dependent upon gender.	
+		
+3)
+The chi-square test statistic is calculated by using the formula:χ2=∑(O−E)2/E
+where O represents the observed frequency.
+E is the expected frequency under the null hypothesis and computed by:		
+
+E=(total_row*total_column)/sample size
+
+
+4)We will compare the value of the test statistic to the critical value of χa**2 with degree of freedom = (row - 1) (column - 1), and reject the null hypothesis if χ**2>χa**2.
+
+5)
+We will calculate expected value of each sample:
+
+Here expected value of female at high school will be E(Female,High School)=(total female)*(toal hidh school)/grand total=(201*100)/395=50.886
+This way we have calculated the expected values for each sample.
+
+                           Expected					
+ 	High School	Bachelors	Masters	Ph.d.	Total
+Female	50.886		49.868		50.377	49.868	201
+Male	49.114		48.132		48.623	48.132	194
+Total	100		98		99	98	395
+
+6)Here area of significance is 5%(.05)
+
+7)Find critical value.
+
+Here degree of freedom id (row -1)(column -1)=(2 -1)(4-1)=3*1=3
+The critical value of x2 with 3 degree of freedom is 7.815 in chi-square table.
+
+8)Find test statistics
+
+x2=sum[(O-E)2/E]....here O is the observed value and E is expected value in each category.
+
+So x2=((60−50.886)**2)/50.886+((40−49.114)**2)/49.114+((54-49.868)**2)/49.868+((57−48.132)**2)/48.132+((46-50.377)**2)/50.377+
+((53-48.623)**2)/48.623+((41-49.868)**2)/49.868)+((57-48.132)**2)/48.132
+=8.006
+
+The critical value of χ2 with 3 degree of freedom is 7.815. Since 8.006 > 7.815, therefore we reject the null hypothesis and conclude that the education level depends on gender at a 5% level of significance.
+
+
+

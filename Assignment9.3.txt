@@ -1,0 +1,42 @@
+1)
+F-test is the ratio of the variances of the given two set of values. First calculate standard deviation and variation of the given set of values. 
+
+2)Calculate Variance of first set:
+
+Mean (xm)= (x1+x1+x2...xn)/N=(10+20+30+40+50)/5
+Mean (xm)= 150/5
+Means(xm)= 30
+SD=sqrt(1/(N-1)*((x1-xm)2+(x2-xm)2+..+(xn-xm)2))
+=sqrt(1/(5-1)((10-30)**2+(20-30)**2+(30-30)**2+(40-30)**2+(50-30)**2))
+=sqrt(1/4((-20)**2+(-10)**2+(0)**2+(10)**2+(20)**2))
+=sqrt(1/4((400)+(100)+(0)+(100)+(400)))
+=sqrt(250)
+=15.8114
+Variance=SD**2
+Variance=15.8114**2
+Variance=250 
+
+3)
+Calculate Variance of second set:
+
+Mean (xm)= (x1+x2+x3...xN)/N=(5+10+15+20+25)/5
+Mean (xm)= 75/5
+Means (xm)= 15
+SD=sqrt(1/(N-1)*((x1-xm)2+(x2-xm)2+..+(xn-xm)2))
+=sqrt(1/(5-1)((5-15)2+(10-15)2+(15-15)2+(20-15)2+(25-15)2))
+=sqrt(1/4((-10)2+(-5)2+(0)2+(5)2+(10)2))
+=sqrt(1/4((100)+(25)+(0)+(25)+(100)))
+=sqrt(62.5)
+=7.9057
+Variance=SD2
+Variance=7.90572
+Variance=62.5
+
+4)
+To calculate F Test
+F Test = (variance of set1) / (variance of set2)
+= 250/62.5
+= 4.
+
+The F Test value is 4.
+
