@@ -1,0 +1,33 @@
+1. What are the three stages to build the hypotheses or model in machine learning?
+Ans : Below are the three process to build a model in machine learing 
+	1. Data preparation stage
+	2. Algorithm choosing and trainging 
+	2. Model building and monitoring
+
+2.	What is the standard approach to supervised learning?
+Ans: Below are steps followed in supervised learning.
+		1. Determine the types of training data for fitting the model.
+		2. Gathering training and testing data set for fitting the model and testing the model.
+		3. Determine the input feature representation of the learned function.
+		4. Determine the structure of the learned function and corresponding learning algorithm.
+		5. Evaluate the accuracy of learned function.
+
+3. What is Training set and Test set?
+Ans : Training Set: Basically training sets are the input dataset or features used to train a model. 
+		The model learn or build properly as per selection of correct features to fit the model.
+	Test set:  Test set are the data set to evaluate the model's performance. 
+	And adjust or select the model by seeing the performance of the model. 			
+		
+4.  What is the general principle of an ensemble method and what is bagging and
+boosting in ensemble method?
+
+Ans : The general principle of an ensemble method is to improve the model performance/predictive power of the model.
+ Bagging : Bagging is a process to improve the stability and accuracy of 
+ machine learning algorithms used in supervised learning. It decrease the varience by lessening the bias in 
+ predictive models.
+ 
+ Boosting:In supervised learning boosting is an ensemble meta-algorithm that converts weak learners 
+ to strong learners and improve model performance.
+ 
+ 5. How can you avoid overfitting ?
+	Using bagging algorithm/regularization function overfitting problem can be avoid.
